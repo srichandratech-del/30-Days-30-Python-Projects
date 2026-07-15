@@ -3,7 +3,7 @@
 Welcome to my **30 Days, 30 Python Projects** challenge!
 
 ![Python](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)
-![Challenge Progress](https://img.shields.io/badge/Progress-2%20%2F%2030%20Days-orange?style=for-the-badge&logo=target&logoColor=white)
+![Challenge Progress](https://img.shields.io/badge/Progress-1%20%2F%2030%20Days-orange?style=for-the-badge&logo=target&logoColor=white)
 ![YouTube Channel](https://img.shields.io/badge/YouTube-App%20Hacks%20HQ-red?style=for-the-badge&logo=youtube&logoColor=white&link=YOUR_YOUTUBE_CHANNEL_LINK_HERE)
 
 I am currently learning Python, and instead of just watching tutorials, I decided to build **one mini project every day** for 30 days.
@@ -26,7 +26,7 @@ This repository contains all the source code used in my YouTube Shorts series.
 | Day | Project | Status |
 |-----|---------|--------|
 | Day 01 | Calculator | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) |
-| Day 02 | Even or Odd Checker | ![Completed](https://img.shields.io/badge/Status-Completed-success?style=flat-square) |
+| Day 02 | Even or Odd Checker | ![Upcoming](https://img.shields.io/badge/Status-Upcoming-yellow?style=flat-square) |
 | Day 03 | Largest of Three Numbers | ![Upcoming](https://img.shields.io/badge/Status-Upcoming-yellow?style=flat-square) |
 | Day 04 | Leap Year Checker | ![Upcoming](https://img.shields.io/badge/Status-Upcoming-yellow?style=flat-square) |
 | Day 05 | Temperature Converter | ![Upcoming](https://img.shields.io/badge/Status-Upcoming-yellow?style=flat-square) |
