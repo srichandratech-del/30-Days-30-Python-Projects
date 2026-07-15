@@ -59,14 +59,21 @@ This repository contains all the source code used in my YouTube Shorts series.
 ---
 
 ## 📁 Repository Structure
+
+```text
 30-days-30-python-projects/
-│
-├── Day-01-Calculator/
-├── Day-02-Even-Odd-Checker/
-├── Day-03-Largest-Of-Three/
-├── Day-04-Leap-Year/
-├── ...
-└── Day-30/
+├── 📂 Day-01-Calculator/
+├── 📂 Day-02-Even-Odd-Checker/
+├── 📂 Day-03-Largest-Of-Three/
+├── 📂 Day-04-Leap-Year/
+├── 📂 Day-05-Temperature-Converter/
+├── 📂 Day-06-BMI-Calculator/
+├── 📂 Day-07-Dice-Roller/
+├── 📂 Day-08-Password-Generator/
+├── 📂 Day-09-Number-Guessing-Game/
+├── 📂 Day-10-Countdown-Timer/
+└── 📂 ...
+```
 
 Each folder contains:
 - Python source code
